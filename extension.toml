@@ -1,0 +1,7 @@
+id = "lovecraft"
+name = "Lovecraft"
+version = "0.0.1"
+schema_version = 1
+authors = ["Erwin Lovecraft"]
+description = "Xcode Like theme"
+repository = "https://github.com/erwin-lovecraft/xcode-like-theme"

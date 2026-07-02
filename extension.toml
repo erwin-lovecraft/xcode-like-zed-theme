@@ -1,7 +1,7 @@
-id = "lovecraft"
-name = "Lovecraft"
+id = "xcode-like-theme"
+name = "Xcode Like Theme"
 version = "0.0.1"
 schema_version = 1
 authors = ["Erwin Lovecraft"]
-description = "Xcode Like theme"
-repository = "https://github.com/erwin-lovecraft/xcode-like-theme"
+description = "Xcode Light and Xcode Dark themes for Zed."
+repository = "https://github.com/erwin-lovecraft/xcode-like-zed-theme"
